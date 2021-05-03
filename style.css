@@ -27,5 +27,12 @@ body {
 
 .split.left {
     left: 0;
-    background: url();
+    background: url('https://github.com/bradtraversy/50projects50days/blob/master/split-landing-page/ps.jpg?raw=true');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.split.right {
+    right: 0;
+    background: url('https://github.com/bradtraversy/50projects50days/blob/master/split-landing-page/xbox.jpg?raw=true');
 }
